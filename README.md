@@ -1,12 +1,12 @@
 # DotNET Example
 
 ## Compiling 
-Build the solution. 
+Build the solution. \
 $ dotnet build
 
 ## Running
-Run signature examples. 
+Run signature examples. \
 $ dotnet run signature
 
-Run spot examples. 
+Run spot examples. \
 $ dotnet run spot
